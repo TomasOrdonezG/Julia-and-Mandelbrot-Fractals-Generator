@@ -7,9 +7,12 @@ Change macrodefinitions in fractals.h to render images to your liking
 - FRAME_START: How many frames to skip before first render
 - ZOOM_FACTOR: How much the height decreases per frame (mandelbrot only)
 - SCREEN_HEIGHT, SCREEN_WIDTH, SCREEN_ASPECT_RATIO: Height and width of the display in pixels, and the aspect ratio
+
 Flags:
 - PRESENT_EACH_FRAME: Show each frame after it is rendered on the display
 - SAVE_EACH_FRAME: Save each frame to ./Frames/#.bmp where # is the frame number starting from 1
+
+You can also change the 3 colour gradient inside the draw_set function at the top if you wish
 
 Compile with -DJULIA to render julia sets, or run Julia.exe.
 Compile without -DJULIA to render the Mandelbrot set, or run Mandelbrot.exe.
