@@ -14,8 +14,11 @@ Flags:
 
 You can also change the 3 colour gradient inside the draw_set function at the top if you wish
 
-Compile with -DJULIA to render julia sets, or run Julia.exe.
-Compile without -DJULIA to render the Mandelbrot set, or run Mandelbrot.exe.
+Compilation
+- Compile with -DJULIA to render julia sets, or run Julia.exe.
+- Compile without -DJULIA to render the Mandelbrot set, or run Mandelbrot.exe.
+
+The already compiled executable files will give you the following renders:
 
 # Julia Set Render
 ![Julia Render](https://github.com/TomasOrdonezG/Julia-and-Mandelbrot-Fractals-Generator/blob/main/JuliaSample.png)
