@@ -15,8 +15,8 @@ Compile with -DJULIA to render julia sets, or run Julia.exe.
 Compile without -DJULIA to render the Mandelbrot set, or run Mandelbrot.exe.
 
 # Julia Set Render
-![Julia Render](https://github.com/TomasOrdonezG/Julia-and-Mandelbrot-Fractals-Generator/blob/main/Sample%20Renders/Julia.bmp)
+![Julia Render](https://github.com/TomasOrdonezG/Julia-and-Mandelbrot-Fractals-Generator/blob/main/JuliaSample.png)
 
 # Mandelbrot set Render
-![Mandelbrot Render](https://github.com/TomasOrdonezG/Julia-and-Mandelbrot-Fractals-Generator/blob/main/Sample%20Renders/Mandelbrot.bmp)
+![Mandelbrot Render](https://github.com/TomasOrdonezG/Julia-and-Mandelbrot-Fractals-Generator/blob/main/MandelbrotSample.png)
 
