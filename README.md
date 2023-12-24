@@ -21,8 +21,8 @@ Compilation
 The already compiled executable files will give you the following renders:
 
 # Julia Set Render
-![Julia Render](https://github.com/TomasOrdonezG/Julia-and-Mandelbrot-Fractals-Generator/blob/main/Render%20Samples/JuliaSample.png)
+![Julia Render](https://github.com/TomasOrdonezG/Julia-and-Mandelbrot-Fractals-Generator/blob/main/JuliaSample.png)
 
 # Mandelbrot set Render
-![Mandelbrot Render](https://github.com/TomasOrdonezG/Julia-and-Mandelbrot-Fractals-Generator/blob/main/Render%20Samples/MandelbrotSample.png)
+![Mandelbrot Render](https://github.com/TomasOrdonezG/Julia-and-Mandelbrot-Fractals-Generator/blob/main/MandelbrotSample.png)
 
